@@ -7,7 +7,6 @@ I'm graduating soon and actively looking for **internship / full-time SDE & secu
 ---
 
 ### 🛠 What I work with
-*(swap these for whatever you've actually used most — keep it honest, recruiters do check)*
 
 Programming: C, Java, Python
 Core CS: Data Structures & Algorithms, Operating Systems, DBMS, OOP
